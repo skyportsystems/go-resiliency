@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/go-resiliency (fetch)
+origin	git@github.com:skyportsystems/go-resiliency (push)
+upstream	https://github.com/skyportsystems/go-resiliency.git (fetch)
+upstream	https://github.com/skyportsystems/go-resiliency.git (push)
